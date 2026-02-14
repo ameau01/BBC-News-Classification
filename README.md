@@ -13,8 +13,6 @@ The objective is to demonstrate practical, production-style NLP workflow includi
 - Comparative model analysis
 - Reproducible experimentation in Jupyter
 
-This project showcases applied machine learning skills relevant to AI/ML engineering roles.
-
 ---
 
 ## Problem Statement
@@ -88,15 +86,16 @@ Key insights:
 - TF-IDF improves discrimination of informative terms
 - Balanced dataset supports stable multi-class evaluation
 
-
 ---
 
-## Tech Stack
+## Project Structure
+BBC-News-Classification/
 
-- Python
-- scikit-learn
-- pandas
-- NumPy
-- Matplotlib / Seaborn
+├── bbc-news-classification-project.ipynb  # Complete end-to-end notebook
+
+└── README.md
+
+**Author:** Alexander Meau  
+**Email:** [alme9155@colorado.edu](mailto:alme9155@colorado.edu)  
 - Jupyter Notebook
 
