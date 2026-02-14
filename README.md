@@ -1,5 +1,5 @@
-# 📰 BBC News Classification — NLP Machine Learning Project
-
+# BBC News Classification — NLP Machine Learning Project
+(https://www.kaggle.com/competitions/learn-ai-bbc)
 
 ## Project Overview
 
