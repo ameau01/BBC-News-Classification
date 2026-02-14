@@ -56,12 +56,12 @@ Each article consists of raw text and a corresponding label.
 - Tokenization
 - Cleaning punctuation and noise
 
-### 2️⃣ Feature Engineering
+### Feature Engineering
 
 - Bag-of-Words (CountVectorizer)
 - TF-IDF Vectorization
 
-### 3️⃣ Model Training
+### Model Training
 
 Models evaluated:
 
@@ -69,7 +69,7 @@ Models evaluated:
 - Support Vector Machine (SVM)
 - Random Forest Classifier
 
-### 4️⃣ Evaluation Metrics
+### Evaluation Metrics
 
 - Accuracy
 - Precision / Recall / F1-score
@@ -78,7 +78,7 @@ Models evaluated:
 
 ---
 
-## 📊 Results
+## Results
 
 TF-IDF combined with linear classifiers (e.g., SVM) demonstrated strong performance for high-dimensional sparse text data.
 
