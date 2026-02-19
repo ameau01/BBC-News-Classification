@@ -91,7 +91,7 @@ Key insights:
 ## Project Structure
 BBC-News-Classification/
 
-├── bbc-news-classification-project.ipynb  # Complete end-to-end notebook
+├── bbc-news-classification-project.ipynb 
 
 └── README.md
 
