@@ -1,5 +1,8 @@
 # BBC News Classification — NLP Machine Learning Project
-(https://www.kaggle.com/competitions/learn-ai-bbc)
+
+- Kaggle Notebook: https://www.kaggle.com/code/alexandermeau/bbc-news-classification
+- Author: Alexander Meau
+- Email: ameau01@gmail.com
 
 ## Project Overview
 
@@ -7,11 +10,11 @@ This project builds a supervised machine learning pipeline to classify BBC news 
 
 The objective is to demonstrate practical, production-style NLP workflow including:
 
-- Text preprocessing and normalization
-- Feature engineering using TF-IDF
-- Model training and evaluation
-- Comparative model analysis
-- Reproducible experimentation in Jupyter
+* Text preprocessing and normalization
+* Feature engineering using TF-IDF
+* Model training and evaluation
+* Comparative model analysis
+* Reproducible experimentation in Jupyter
 
 ---
 
